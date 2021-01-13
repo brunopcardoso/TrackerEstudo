@@ -1,1 +1,1 @@
-Cronometro de foco.
+Cronometro de foco!
